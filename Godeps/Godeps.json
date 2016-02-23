@@ -1,0 +1,8 @@
+{
+  "ImportPath": "git@github.com:ikoi-fr/iwms.git",
+  "GoVersion": "go1.6",
+  "Packages": [
+    "./cmd/..."
+  ],
+  "Deps": []
+}
